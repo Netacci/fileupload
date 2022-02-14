@@ -1,7 +1,10 @@
 POST http://localhost:3001/api/persons/
 Content-Type: application/json
+
 {
-     "name" : "Netau",
+    "name" : "Netau",
      "number" : "234688696",
-     "photo" : ""
+     
+     "photo": ""
+   
 }
